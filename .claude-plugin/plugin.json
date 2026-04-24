@@ -1,0 +1,10 @@
+{
+  "name": "svs-ops-tools",
+  "version": "0.1.0",
+  "description": "Claude skills for the Specialized Vendor Services (SVS) team at Instacart. Includes tools for filing standardized Jira tickets following SVS best practices.",
+  "author": {
+    "name": "Brittney Miller",
+    "email": "brittney.miller@instacart.com"
+  },
+  "keywords": ["svs", "jira", "instacart", "specialized-vendor-services"]
+}
