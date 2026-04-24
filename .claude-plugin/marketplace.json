@@ -1,0 +1,16 @@
+{
+  "owner": "brittney-miller-ha",
+  "name": "svs-ops-tools-plugin",
+  "description": "Claude skills for the SVS team at Instacart.",
+  "plugins": [
+    {
+      "name": "svs-ops-tools",
+      "description": "File standardized SVS Jira tickets following team best practices.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/brittney-miller-ha/svs-ops-tools-plugin.git"
+      },
+      "homepage": "https://github.com/brittney-miller-ha/svs-ops-tools-plugin"
+    }
+  ]
+}
