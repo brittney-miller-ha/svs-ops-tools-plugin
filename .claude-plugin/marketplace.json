@@ -1,6 +1,6 @@
 {
   "name": "svs-ops-tools",
-  "description": "Claude skills for the Specialized Vendor Services (SVS) team at Instacart.",
+  "description": "Claude skills for the Specialized Vendor Services (SVS) team at Instacart. Includes tools for filing standardized Jira tickets following SVS best practices.",
   "plugins": [
     {
       "name": "svs-ops-tools",
