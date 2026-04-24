@@ -1,5 +1,5 @@
 {
-  "owner": "brittney-miller-ha",
+  "owner": { "github": "brittney-miller-ha" },
   "name": "svs-ops-tools-plugin",
   "description": "Claude skills for the SVS team at Instacart.",
   "plugins": [
