@@ -1,11 +1,15 @@
-[
-  {
-    "name": "svs-ops-tools",
-    "description": "Claude skills for the Specialized Vendor Services (SVS) team at Instacart. Includes tools for filing standardized Jira tickets following SVS best practices.",
-    "source": {
-      "source": "url",
-      "url": "https://github.com/brittney-miller-ha/svs-ops-tools-plugin.git"
-    },
-    "homepage": "https://github.com/brittney-miller-ha/svs-ops-tools-plugin"
-  }
-]
+{
+  "name": "svs-ops-tools",
+  "description": "Claude skills for the Specialized Vendor Services (SVS) team at Instacart.",
+  "plugins": [
+    {
+      "name": "svs-ops-tools",
+      "description": "Claude skills for the Specialized Vendor Services (SVS) team at Instacart. Includes tools for filing standardized Jira tickets following SVS best practices.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/brittney-miller-ha/svs-ops-tools-plugin.git"
+      },
+      "homepage": "https://github.com/brittney-miller-ha/svs-ops-tools-plugin"
+    }
+  ]
+}
